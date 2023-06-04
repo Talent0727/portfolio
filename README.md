@@ -1,6 +1,11 @@
 <!--suppress HtmlDeprecatedAttribute -->
 # Hello! 👋 Who am I? #
 <div>
+ <img align="left" src="https://github.com/jason-genie/jason-genie/assets/77975975/1b2f1457-27f8-445e-870f-c1a020166a2c" width="220" />
+<h1 align="center">Hey, I am John!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30" />
+<img src="https://github.com/jason-mellan/jason-mellan/assets/77975975/ecd8338e-47b6-436a-9e48-872bd1fa8f83" width="50" height="50" alt="cryptopunks_1030" />
+ </h1>
+<h3 align="center">TechGenie: Your One-Stop Solution for Full-Stack Engineering</h3>
 <br/>
 - 🔭 Full-stack developer with 6+ years of experience designing and building scalable, high-performance web and mobile applications<br/>
 - 🌱 Proficient in front-end technologies like React, Angular, and Vue.js, as well as back-end technologies like Node.js, Python, and PHP<br/>
