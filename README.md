@@ -2,17 +2,44 @@
 # Hello! 👋 Who am I? #
 <div>
  <img align="left" src="https://github.com/jason-genie/jason-genie/assets/77975975/1b2f1457-27f8-445e-870f-c1a020166a2c" width="220" />
-<h1 align="center">Hey, I am John!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30" />
+<h1 align="center">Hey, I am a talent developer who has a lot of experiences!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30" />
 <img src="https://github.com/jason-mellan/jason-mellan/assets/77975975/ecd8338e-47b6-436a-9e48-872bd1fa8f83" width="50" height="50" alt="cryptopunks_1030" />
  </h1>
 <h3 align="center">TechGenie: Your One-Stop Solution for Full-Stack Engineering</h3>
 <br/>
-- 🔭 Full-stack developer with 6+ years of experience designing and building scalable, high-performance web and mobile applications<br/>
-- 🌱 Proficient in front-end technologies like React, Angular, and Vue.js, as well as back-end technologies like Node.js, Python, and PHP<br/>
-- 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS and Azure also GCP<br/>
-- 😍 Developed some AI Apps and integrated with web and ChatGPT.
-- 😉 Deep knowledge about deep learning, recommendation system and reinforcement system.</br>
+Welcome to my profile.
 
+✍️I understand the importance of creating highly readable and easily maintainable source code. I am constantly striving to learn new technologies and look to ways to better ourselves in this changing industry.
+
+👌I am an experienced Full Stack Developer with great knowledge of algorithm development and a good sense of design.
+
+My achieves :
+Main skills : PHP, MySQL,Javascript( Angular, Reactjs )
+JS frameworks: Reactjs, AngularJS, Bootstrap
+PHP frameworks: Laravel
+
+PHP CMS - Shopify (Shopify apps), WordPress, Opencart
+Payment systems: Pay_Pal, Stripe, Adyen, Ebanx, Authorize.net and others.
+WEB Server - LAMP, WAMP, MAMP
+Tools / Software - SublimeText, PHPStorm, Mysql Workbench, Postman, Photoshop, Figma, Sketch and much more.
+
+Key skills :
+Extensive development of JavaScript.
+Node.js, TypeScript.
+Hand experience in E-commerce open sources.
+Hands-on experience in using Framework to develop a web application.
+Quick learner and eager to learn new technologies.
+Webserver installation & configuration: Apache, Nginx.
+Design for SEO (Search Engine Optimization)
+
+😎Before finishing a project, I always make all possible tests, so you will NEVER find any errors and will not be disappointed in the future.
+
+💪My goal is not just to complete the task, but complete it in the best possible way.
+
+😇I am ready to build strong cooperation and long-term relationships.
+
+Have any questions? Want to discuss your project?
+Feel free to contact me and have a nice day:)
 </div>
 
 # Main Skills #
